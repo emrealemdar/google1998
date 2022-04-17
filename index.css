@@ -1,0 +1,30 @@
+.image {
+    text-align: center;
+    display: block;
+    margin:auto;
+}
+
+.arama{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color:lightgray;
+}
+
+.special {
+    background-color:#7ee5da;
+    width: 37%;
+    text-align: center;
+    font-size: 15px;
+}
+
+.searches {
+    background-color: #70CCC2;
+    text-align: center;
+    font-size: 15px;
+}
+
+.updates {
+    background-color: #62B3AA;
+    text-align: center;
+    font-size: 12px;
+}
